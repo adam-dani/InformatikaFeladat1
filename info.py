@@ -24,3 +24,13 @@ print("Írj be 2 racionális számot!")
 bemenet5 = float(input("Első szám: "))
 bemenet6 = float(input("Második szám: "))
 print("A két szám összege:", bemenet5 + bemenet6, "!")
+
+# feladat 5
+
+print("Írj be 5 racionális vagy egész számot!")
+bemenetA = float(input("Első szám: "))
+bemenetB = float(input("Második szám: "))
+bemenetC = float(input("Harmadik szám: "))
+bemenetD = float(input("Negyedik szám: "))
+bemenetE = float(input("Ötödik szám: "))
+print("Az adott számok összege:", bemenetA + bemenetB + bemenetC + bemenetD + bemenetE, "!")
